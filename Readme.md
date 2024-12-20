@@ -42,12 +42,12 @@ To train the model on your dataset, execute:
 ## 📊 Results
 The model's performance is evaluated based on loss and accuracy metrics. Visualizations of training and validation losses over epochs are provided.
 
-![Loss vs Epochs](loss_plot.png)
+![Loss vs Epochs]
 
 ### Confusion Matrix:
 A confusion matrix is generated to visualize the classification performance.
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix]
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
